@@ -9,7 +9,7 @@
 A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://static.fandomspot.com/images/05/6906/04-sakura-futaba-persona-5-anime.jpg" />
+  <img align="right" alt="GIF" width="320" height="205"  src="https://static.fandomspot.com/images/05/6906/04-sakura-futaba-persona-5-anime.jpg" />
  
  
  

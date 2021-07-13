@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Yohanna!</h3>
 
-<a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
+<a href="https://www.linkedin.com/in/yohanna-oliveira-4a3a20198/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />

@@ -3,17 +3,13 @@
 <a href="https://www.linkedin.com/in/jaskirat-singh-009348178">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/hanna_bits/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966" />
-</a>
-
 <br />
 <br />
 
 A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966" />
 
 **About Me!**
 

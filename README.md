@@ -4,7 +4,7 @@
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/hanna_bits/">
-  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://image.flaticon.com/icons/png/512/87/87390.png" />
+  <img align="left" alt="Jaskirat's Instagram" width="24px" src="https://camo.githubusercontent.com/bfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966" />
 </a>
 
 <br />

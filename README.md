@@ -10,7 +10,7 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" />
-  
+   <img align="right" alt="GIF" src="https://64.media.tumblr.com/bc91fffa1f7f71014fddf10d3d2decbd/tumblr_pkxty5psM71sguk2k_500.gifv" />
 **About Me!**
 
 - 🌱 I’m currently exploring JAVA with CUCUMBER and SELENIUM.

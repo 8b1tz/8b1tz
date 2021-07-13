@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there, I'm [Yohanna] 👋
 
-<!--
-**8b1tz/8b1tz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Anurag Hazra, a passionate self-taught FrontEnd developer from India.
+
+- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 🌱 I’m currently learning Typescript
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<a href="https://github.com/8b1tz/8b1tz.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.8b1tz.app/api/pin/?username=8b1tz&repo=8b1tz.github.io&theme=material-palenight" />
+</a>

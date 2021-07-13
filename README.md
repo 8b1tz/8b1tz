@@ -34,6 +34,7 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png"></code>
 
 <code><img height="20" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4"></code>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jas-Script&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">

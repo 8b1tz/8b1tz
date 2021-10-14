@@ -15,7 +15,7 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 **About Me!**
 
-- 🌱 I’m currently exploring JAVA with CUCUMBER and SELENIUM.
+- 🌱 I’m currently exploring Python and Spring Boot.
 - 💬 Ask me about anything, I love to answer!
 
 

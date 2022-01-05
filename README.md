@@ -15,7 +15,7 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 **About Me!**
 
-- 🌱 I’m currently exploring Python and Spring Boot.
+- 🌱 I’m currently exploring Python and FastAPI.
 - 💬 Ask me about anything, I love to answer!
 
 

@@ -6,7 +6,7 @@
 <br />
 <br />
 
-A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
+A **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" width="320" height="205"  src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
@@ -15,7 +15,7 @@ A **JAVA DEVELOPMENT** ***Enthusiast*** 🚀.
  
 **About Me!**
 
-- 🌱 I’m currently exploring Python and FastAPI.
+- 🌱 I’m currently exploring Python with PYSPARK and PANDAS.
 - 💬 Ask me about anything, I love to answer!
 
 

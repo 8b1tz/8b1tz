@@ -1,6 +1,6 @@
 <h3 title="hehehe"> Hey 👋, I'm Yohanna!</h3>
 
-<a href="https://www.linkedin.com/in/yohanna-oliveira-4a3a20198/">
+<a href="https://www.linkedin.com/in/yohanna-oliveira/">
   <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
@@ -9,7 +9,7 @@
 A **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" width="320" height="205"  src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv" />
+  <img align="right" alt="GIF" width="320" height="205"  src="https://i.imgur.com/MxyDkrr.gif" />
  
  
  

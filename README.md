@@ -31,7 +31,11 @@ A **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
 
 <code><img height="20" src="https://bognarjunior.files.wordpress.com/2018/09/typescript.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/874086?s=280&v=4"></code>
+<code><img height="20" src="https://images.tcdn.com.br/img/img_prod/240061/django_16_1_20190227092231.png"></code>
 
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg"></code>
+<code><img height="20" src="https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2023/08/pyspark.jpg?w=800&ssl=1"></code>
+<code><img height="20" src="https://pt.wikipedia.org/wiki/Ficheiro:Sql_data_base_with_logo.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=8b1tz&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jaskirat's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8b1tz&count_private=true&theme=radical" alt="Jas-Script" />

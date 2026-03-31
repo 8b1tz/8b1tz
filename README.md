@@ -13,7 +13,7 @@ A **PYTHON DEVELOPMENT** ***Enthusiast*** 🚀.
  
 **About Me!**
 
-- 🌱 I’m currently exploring Python with PYSPARK and PANDAS.
+- 🌱 I’m currently exploring Python with Django and FAST API.
 - 💬 Ask me about anything, I love to answer!
 
 

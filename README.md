@@ -1,8 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Yohanna!</h3>
-
-<a href="https://www.linkedin.com/in/yohanna-oliveira/">
-  <img align="left" alt="Jaskirat's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<h3 title="hehehe"> Hey 👋, I'm 8b1tz!</h3>
 <br />
 <br />
 

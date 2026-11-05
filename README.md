@@ -9,7 +9,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend-151515?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-6C2BD9?style=for-the-badge&logo=hackthebox&logoColor=white)
-
 </div>
 
 ## 🧠 About Me
@@ -21,8 +20,6 @@ I'm a **Mid-Level Software Engineer** focused on **Python and backend engineerin
 - 🛡️ Exploring **ethical hacking, web/API security, and Bug Bounty**.
 - 🔍 Interested in understanding how software works.
 - 🌐 **Brazil** 🇧🇷
-
-<br clear="right" />
 
 ## 🛠️ Languages & Backend
 
@@ -47,13 +44,11 @@ I'm a **Mid-Level Software Engineer** focused on **Python and backend engineerin
 
 <div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=8b1tz&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/8b1tz)
-
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=8b1tz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/8b1tz?tab=repositories)
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=8b1tz&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=8b1tz&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
-<img alt="Lain" width="400" src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" />
+<img alt="Lain" width="400" src="SEU_LINK_DO_GIF.gif" />
 
 ### `Let's all love Lain.` 🌐
 

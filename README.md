@@ -12,10 +12,6 @@
 
 </div>
 
----
-
-<img align="right" alt="Lain Iwakura at her computer" width="280" src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" />
-
 ## 🧠 About Me
 
 I'm a **Mid-Level Software Engineer** focused on **Python and backend engineering**, currently expanding into **cybersecurity and vulnerability research**.

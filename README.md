@@ -55,5 +55,5 @@ I'm a **Mid-Level Software Engineer** focused on **Python and backend engineerin
 **Code. Research. Learn. Repeat.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=8b1tz&color=blueviolet&style=flat-square)
-
+<img alt="Lain" width="400" src="https://media.giphy.com/media/udK21RQeWtaGQ/giphy.gif" />
 </div>

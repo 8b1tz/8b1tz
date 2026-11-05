@@ -31,7 +31,6 @@ I'm a **Mid-Level Software Engineer** focused on **Python and backend engineerin
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-171717?style=for-the-badge&logo=ollama&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -47,8 +46,6 @@ I'm a **Mid-Level Software Engineer** focused on **Python and backend engineerin
 <img height="180" src="https://github-stats-extended.vercel.app/api?username=8b1tz&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=8b1tz&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
-
-<img alt="Lain" width="400" src="SEU_LINK_DO_GIF.gif" />
 
 ### `Let's all love Lain.` 🌐
 
